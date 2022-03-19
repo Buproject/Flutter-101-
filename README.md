@@ -1,6 +1,6 @@
 # Flutter 101 Eğitim Uygulaması
 
-- [Buproject Sunumu](https://docs.google.com/presentation/d/1lN9ruVKihRsEUFi5ziwiVc88PTrSrTz8V36dWOZMYJE/edit?usp=sharing)
+- [Buproject Sunumu](https://drive.google.com/file/d/1r8xUm1g0Gc_OasgqkOALQaNFxnbY51uM/view?usp=sharing)
 
 A new Flutter project.
 
